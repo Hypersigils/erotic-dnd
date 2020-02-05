@@ -1,0 +1,628 @@
+{
+	"logs": [
+		{
+			"user": "DM",
+			"time": "6:37 PM",
+			"messages": [
+                "_It's a good thing the four of you don't linger, for after a moment or two you can hear muffled voices. The voices coalesce into a conversation between two armed guards, wearing splint mail and carrying longswords, clearly approaching the jail Enner has just been freed from. They don't seem to be interested in concealing their presence or looking for those who are, so they blunder right by your hiding spots. They're maybe 90 feet from where they'd be able to see inside Enner's cell, and note the chopped branches._",
+                "What would you like to do?"
+			]
+        },
+        {
+			"user": "Raster",
+			"time": "6:38 PM",
+			"messages": [
+                "You said we can hear their conversation? What are they talking about?"
+			]
+        },
+        {
+			"user": "DM",
+			"time": "6:42 PM",
+			"messages": [
+                "It's not much of a strain to pick up their voices, loud as they are. As you listen it becomes clear one is more talkative and the other is less: while the first chatters on, the second is content to add grunts or nods to the conversation. Evidently this doesn't bother the first.",
+                "They're saying: _\"Dirty business, I have to say. I wonder what the Druids did?\" \"Hmm.\" \"Maybe we have time before the ritual still, maybe we could have some of our own fun.\" The first gives a suggestive wink that the second ignores. \"They never said we couldn't, did they? And it seems such a waste, a pretty little--\" \"Shut up.\" The second finally cuts him off. \"Something's not right with this whole business. Live as long as I have, you get a sense of it. After we're through with the prisoner, we wait an hour and pick up the pieces. Then we go home and sleep in our own beds.\" He silences the first with a look and the two proceed._",
+                "They're now 60 feet from the jail."
+			]
+        },
+        {
+			"user": "Amada",
+			"time": "6:49 PM",
+			"messages": [
+                "What do they look like?"
+			]
+        },
+        {
+			"user": "DM",
+			"time": "6:49 PM",
+			"messages": [
+                "Perception, please."
+			]
+        },
+        {
+			"user": "Amada",
+			"time": "6:50 PM",
+			"messages": [
+                "Perception:",
+                "!roll 1d20 + 3"
+			]
+        },
+		{
+			"user": "Wheel",
+			"time": "6:50 PM",
+			"messages": [
+				"**Amada** is rolling _Perception:_",
+				"1d20 + 3 => 12 + 3 => **15**", 
+				"1d20 + 3 => 18 + 3 => **21**"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "6:52 PM",
+			"messages": [
+                "_You look the two guards over and decide they're mercenaries, judging by the weapons they carry and the armor they wear. Their outfits are mismatched and in various states of disrepair, likely looted from less lucky fighters or stolen outright. The first, more talkative merc whistles off-tune to himself: he seems barely older than twenty, although there's blood on his cheek that doesn't seem to bother him._",
+                "_The other is older, but not by much: he might be early thirties and sports some impressive--and ugly--scars. His nose has been half taken off by a wild swing and his looks weren't much beforehand, either._",
+                "They're now 30 feet away."
+			]
+        },
+        {
+			"user": "Enner",
+			"time": "6:58 PM",
+			"messages": [
+                "(are we going to kill them or let them go?)"
+			]
+        },
+        {
+			"user": "DM",
+			"time": "6:58 PM",
+			"messages": [
+                "In-character, please."
+			]
+        },
+        {
+			"user": "Enner",
+			"time": "6:59 PM",
+			"messages": [
+                "(oh. umm...)",
+                "_looks cautiously away from the two mercenaries and towards the other three. He points at the soldiers and looks uncertain, his soft lips whispering an urgent \"what should we do?\"_"
+			]
+        },
+        {
+			"user": "Raster",
+			"time": "7:02 PM",
+			"messages": [
+                "_Raster answers first: a simple line drawn across his neck, short and brutal. He turns away and begins unsnapping his sword from its clasps, brooking no disagreement."
+			]
+        },
+        {
+			"user": "Amada",
+			"time": "7:02 PM",
+			"messages": [
+                "(Seems like it's settled, lol)"
+			]
+        },
+        {
+			"user": "Erys",
+			"time": "7:03 PM",
+			"messages": [
+                "(Like you wouldn't have killed them :^))"
+			]
+        },
+        {
+			"user": "DM",
+			"time": "7:04 PM",
+			"messages": [
+                "Unless you say otherwise, I'm going to assume you'll strike when they notice the jail, so held actions. Give me initiative rolls right now and after one round we'll move to normal combat."
+			]
+        },
+        {
+			"user": "Amada",
+			"time": "7:04 PM",
+			"messages": [
+                "(Bold of you to assume they'll still be alive.)",
+                "Rolling Initiative:",
+                "!roll 1d20 + 2"
+			]
+        },
+		{
+			"user": "Wheel",
+			"time": "7:04 PM",
+			"messages": [
+				"**Amada** is rolling _Initiative:_",
+				"1d20 + 2 => 7 + 2 => **9**", 
+				"1d20 + 2 => 1 + 2 => **3**"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:05 PM",
+			"messages": [
+                "There is that.",
+                "Wait, before any of the rest of you roll",
+                "I got Gavlan set up to handle advantages, so I can have him do all of you."
+            ]
+        },
+		{
+			"user": "Erys",
+			"time": "7:05 PM",
+			"messages": [
+				"(Giggity)"
+			]
+		},
+		{
+			"user": "DM",
+			"time": "7:06 PM",
+			"messages": [
+				"!roll initiatives"
+			]
+		},
+		{
+			"user": "Wheel",
+			"time": "7:06 PM",
+			"messages": [
+				"**Amada** is rolling _Initiative:_",
+				"1d20 + 2 => 15 + 2 => **17** <=",
+                
+				"**Raster** is rolling _Initiative_ at advantage:",
+				"1d20 + 3 => 5 + 3 => **8**", 
+                "1d20 + 3 => 19 + 3 => **22** <=",
+                
+				"**Erys** is rolling _Initiative:_",
+				"1d20 + 2 => 17 + 2 => **19** <=",
+                
+				"**Enner** is rolling _Initiative:_",
+				"1d20 + 1 => 3 + 1 => **4** <="
+			]
+		},
+		{
+			"user": "Enner",
+			"time": "7:06 PM",
+			"messages": [
+				"(whoa, that's so cool)"
+			]
+		},
+		{
+			"user": "Raster",
+			"time": "7:06 PM",
+			"messages": [
+				"Welcome back, wheel boy."
+			]
+		},
+		{
+			"user": "Amada",
+			"time": "7:06 PM",
+			"messages": [
+				"(I get my second roll, right? ;) )"
+			]
+		},
+		{
+			"user": "DM",
+			"time": "7:07 PM",
+			"messages": [
+                "Nice try. Raster, you're first, after this description:",
+                "_The two mercenaries grow quiet as they approach the jail: maybe they can sense something's not quite right, or maybe they just don't want to be overheard... although little do they know, they've said too much already. The younger one steps back with a curse as he rounds the tightly-woven set of trees and notices the cell's been thrown open, so to speak, but the older is already grabbing for his sword._"
+			]
+        },
+		{
+			"user": "Raster",
+			"time": "7:10 PM",
+            "messages": [
+                "Greatsword attack to the younger guy.",
+				"!roll main"
+			]
+        },
+        {
+			"user": "Wheel",
+			"time": "7:10 PM",
+			"messages": [
+                "**Raster** is attacking with his _Greatsword:_",
+				"1d20 + 4 => 14 + 4 => **18** <="
+			]
+		},
+		{
+			"user": "DM",
+			"time": "7:11 PM",
+			"messages": [
+				"Hit!"
+			]
+        },
+		{
+			"user": "Raster",
+			"time": "7:13 PM",
+			"messages": [
+				"_He appears out of the afternoon shadows between the trees, his eyes blazing as he hefts the giant hunk of iron in his hands. With a roar Raster relishes the expressions of shock and dismay on his opponent's faces--and he brings the blade down in a savage and gravity-assisted slash across the young mercenary's back._"
+			]
+        },
+		{
+			"user": "DM",
+			"time": "7:13 PM",
+			"messages": [
+				"Damage?"
+			]
+        },
+		{
+			"user": "Raster",
+			"time": "7:13 PM",
+			"messages": [
+				"!roll main dmg"
+			]
+        },
+        {
+			"user": "Wheel",
+			"time": "7:13 PM",
+			"messages": [
+                "**Raster** is damaging with his _Greatsword:_",
+				"2d6 + 3 => [3 + 4] + 3 => **10** <="
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:14 PM",
+			"messages": [
+                "It's a kill! Here's what it looks like:"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:14 PM",
+			"messages": [
+                "(Easy.)"
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "7:14 PM",
+			"messages": [
+                "(that was fast)"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "7:15 PM",
+			"messages": [
+                "(o.O)"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:17 PM",
+			"messages": [
+                "_The younger man barely has time for a strangled cry, his hand racing to the sword strapped to his side but never reaching the hilt in time. Raster's sword bites deep into his back, grinding through his bones and snapping his armor splint by splint. It leaves a dark red gash all the way from his shoulder to his hipbone and he falls like a marionette with his strings cut._",
+                "_The older mercenary curses, turning to face the sudden attacker, and draws his sword._",
+                "Erys?"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "7:20 PM",
+			"messages": [
+                "casting Hold Person. DC 15. >_>"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:20 PM",
+			"messages": [
+                "!roll +2"
+			]
+		},
+        {
+			"user": "Wheel",
+			"time": "7:20 PM",
+			"messages": [
+                "**DM** is rolling:",
+				"1d20 + 2 => _5_ + 3 => **8** <="
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:31 PM",
+			"messages": [
+                "Erys?"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "7:33 PM",
+			"messages": [
+                "(Sorry I had to take care of something quick ><)",
+				"_Erys scrunches her eyes closed and finishes what she was whispering under her breath just as she comes out from behind the tree she was hiding behind. Her black hair starts to rise and flutter, wind from nowhere flapping her hood and making her breath visible as puffs of steam or maybe smoke. Her eyes shoot open and she finishes the incantation, jabbing her hand out towards the old mercenary._"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:36 PM",
+			"messages": [
+                "_The mercenary stiffens in the middle of raising his sword: he freezes awkwardly, half on one foot and half on the other, teetering impossibly as if his time has simply ground to a halt. Despite the illusion of immobility, however, you can still see faint movement here or there in the miniscule rising and falling of his chest--as well as in the way his madly darting eyes focus on you, Erys, and bore into you with a hateful horror._"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:37 PM",
+			"messages": [
+                "Hey! Pick on someone your own size!",
+                "Attacking with both axes.",
+                "!roll main"
+			]
+		},
+        {
+			"user": "Wheel",
+			"time": "7:37 PM",
+			"messages": [
+                "**Amada** is attacking with _Hand Axes_:",
+				"1d20 + 4 => _9_ + 4 => **13** <=",
+				"1d20 + 1 => _14_ + 1 => **15** <="
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:38 PM",
+			"messages": [
+                "You've actually got advantage on this, since your target is paralyzed."
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:38 PM",
+			"messages": [
+                "Oh. How do I roll with advantage?"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "7:39 PM",
+			"messages": [
+                "(Roll command ^_^ and then add 'adv' to the end)"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:39 PM",
+			"messages": [
+                "That's right. But since you already rolled once, roll that same way again and we'll take the better of the two."
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:40 PM",
+			"messages": [
+                "(Fine, fine...)",
+                "!roll main"
+			]
+		},
+        {
+			"user": "Wheel",
+			"time": "7:40 PM",
+			"messages": [
+                "**Amada** is attacking with _Hand Axes_:",
+				"1d20 + 4 => _3_ + 4 => **7** <=",
+				"1d20 + 1 => _17_ + 1 => **18** <="
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:40 PM",
+			"messages": [
+                "13 and 18."
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:40 PM",
+			"messages": [
+                "Miss and a hit."
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:41 PM",
+			"messages": [
+                "_Amada strolls out of the trees, flipping one of her axes in her hand and slipping the other out of her belt. She strides right up to the helpless man and sneers at him, feinting once and twice just to see if he can muster the strength to flinch. \"Not as easy a target as a helpless prisoner, huh?\" she finally hacks at the man in a fury, narrowly missing him with one hatchet but connecting with the other, right in his forehead._"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:41 PM",
+			"messages": [
+                "He's immobilized remember, so that's an automatic crit."
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:41 PM",
+			"messages": [
+                "Right!"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "7:41 PM",
+			"messages": [
+                "(roll command and 'crit' after 'dmg')"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:41 PM",
+			"messages": [
+				"I actually knew that one. I'm just looking up the documentation, 1 sec",
+				"Check this out.",
+				"!roll main dmg 2 crit savage"
+			]
+		},
+        {
+			"user": "Wheel",
+			"time": "7:46 PM",
+			"messages": [
+				"**Amada** is damaging with _Hand Axes (2)_:",
+				"2d6 + 1 + 1d6 => _[4 + 6]_ + 1 + _3_ => **14** <="
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "7:46 PM",
+			"messages": [
+				"(whooooa.)"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:46 PM",
+			"messages": [
+				":^))"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "7:46 PM",
+			"messages": [
+				"Also a kill, barely. Here you are:",
+				"_One hand axe whooshes right by the side of his head, barely knicking his ear: you can see a hint of a flinch, if not in his torso then at least in his eyes. One ruby-red drop spills from his ear and splashes to the ground, but it's the last of his problems. The second axe makes a deep, satisfying_ thunk _when it embeds itself deep in his forehead. Perhaps Erys' spell wears off upon his death or perhaps a last burst of strength breaks him free: he shakes and jerks spasmodically, crumpling to the ground as blood wets your axe._",
+				"Reactions from everyone?"
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "7:55 PM",
+			"messages": [
+				"_steps out from behind the trees, looking aghast at all the blood and gore strewn across the ground. It looks like he feels a little queasy and leans on a nearby tree for support, finally bringing the womb-shaped censer underneath his nose and inhaling deeply. It seems to steady him and he pushes away from the tree, gathering himself._"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "7:57 PM",
+			"messages": [
+				"_Amada laughs at Enner's unsteady legs, wrenching her hand axe free from the mercenary's head in a spray of blood. She sniffs at the blood on her axe and scowls, stooping to wipe it on the grass. \"Don't have a stomach for killing, boy?\" She sneers. \"I could tell just by looking at you.\" She, on the other hand, clearly does; in fact, she's breathing a little harder than the exertion should have made her and her face is flushed. Her nipples stand out underneath the thin fabric of her top and you could swear you see a small wet patch on her underwrap._"
+			]
+		},
+        {
+			"user": "Raster",
+			"time": "7:59 PM",
+			"messages": [
+				"_The man in studded leather doesn't seem to pass judgment the same way his companion does; instead, he just cleans his sword off with a couple of powerful swings, trusting the inertia to flick the blood and gore free. He squats over the two fallen bodies and starts rummaging through their pockets, looking for anything of value._",
+				"!roll investigation"
+			]
+		},
+        {
+			"user": "Wheel",
+			"time": "8:00 PM",
+			"messages": [
+				"**Raster** is rolling _Investigation_:",
+				"1d20 + 4 => _9_ + 4 => **13** <="
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "8:04 PM",
+			"messages": [
+				"_shivers as he looks away from the bodies, swallowing nervously. \"Our calling in the church of Annike is to foster and encourage new life to form,\" he repeats like it's a memorized mantra. \"Not to end it. But...\" he gulps. \"I'm glad it was them and not me. Thank you.\"_"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "8:05 PM",
+			"messages": [
+				"_Erys tiptoes next to the young priest and whispers to him: \"do not worry, I do not really like killing either. But these were bad men and I do not mourn their loss. Raster and Amada are very capable allies, even though they are a little bloodthirsty. I think you will come to like them.\"_"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "8:05 PM",
+			"messages": [
+				"_On the bodies you find small change, tokens, trinkets you might expect mercenaries to carry. Their arms and armor are almost worthless, although a couple of sparkling gems in a pouch on the elder's belt does catch your eye. As you search him fully, you also find a folded up letter tucked underneath his armor, stuffed there for safekeeping._"
+			]
+		},
+        {
+			"user": "Raster",
+			"time": "8:06 PM",
+			"messages": [
+				"_\"A note, found tucked away,\" the man in black announces. He opens it carefully and reads it aloud._"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "8:08 PM",
+			"messages": [
+				"_Tha preest sed et wood be tha 1st ov menny. He sed 2 stay clows & wach 2 see wat wood happen. He sed 2 do tha droods neer tha slab. He sed 2 torcher tha kid. All this is troo on my lif. On my mum's lif. I sine it Rickard._"
+			]
+		},
+        {
+			"user": "Raster",
+			"time": "8:08 PM",
+			"messages": [
+				"_\"Not much of a writer, this one.\"_"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "8:08 PM",
+			"messages": [
+				"_\"Can't blame 'im.\" Amada fishes for some earwax with a pinky, squinting. \"All sounded right anyways.\"_"
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "8:09 PM",
+			"messages": [
+				"_\"'Torcher' the kid... that's me, isn't it?\" Enner shivers again, the light wind nonetheless chilling him._"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "8:09 PM",
+			"messages": [
+				"_\"The droods...\" Erys whispers, leaning on her staff and looking down. \"The druids?\" She turns to Enner and fixes him with a calm, but piercing stare. Her yellow eyes flash in the fading afternoon light. \"What do you know?\"_"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "8:10 PM",
+			"messages": [
+				"_Amada watches casually, one hand rubbing the haft of an axe._"
+			]
+		},
+        {
+			"user": "Raster",
+			"time": "8:10 PM",
+			"messages": [
+				"_The man in black seems preoccupied with checking the forest around him, but you can see his eyes slide back to Enner more than once. His whole body is tensed like a spring._"
+			]
+		},
+        {
+			"user": "Enner",
+			"time": "8:12 PM",
+			"messages": [
+				"_he hesitates, trying not to look at the stares leveled his way. \"Umm... I know there are Druids here, a forest cult that we--I mean, the church of Annike--permit to coexist with us. With them.\" He nervously wraps the censer's chain around his hand and unwraps it again. \"I never come here usually, and I wouldn't have if I had any choice in the matter...\"_"
+			]
+		},
+        {
+			"user": "Erys",
+			"time": "8:13 PM",
+			"messages": [
+				"_Erys considers that for a moment, her eyes never once leaving his face. Then she nods. \"Alright. But in the future, tell us things first. Not after we ask them.\"_"
+			]
+		},
+        {
+			"user": "Raster",
+			"time": "8:14 PM",
+			"messages": [
+				"_\"Good advice,\" the man in black says with a voice like gravel. \"That kind of advice will keep you alive.\"_"
+			]
+		},
+        {
+			"user": "Amada",
+			"time": "8:14 PM",
+			"messages": [
+				"_\"No pressure.\"_"
+			]
+		},
+        {
+			"user": "DM",
+			"time": "8:15 PM",
+			"messages": [
+				"Anything anyone would like to do before heading deeper into the forest?",
+				"Alright. In that case...",
+				"_The _"
+			]
+		}
+	]
+}

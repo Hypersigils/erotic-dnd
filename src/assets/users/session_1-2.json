@@ -1,0 +1,205 @@
+{
+	"users": [		
+		{
+			"name": "Wheel",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?"
+		},
+		{
+			"name": "DM",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?",
+			"player": {
+				"typingStyle": "types like me",
+				"focusesOn": "all",
+				"into": "all"
+			}
+		},
+		{
+			"name": "Raster",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?",
+			"player": {
+				"typingStyle": "short, blunt, calm",
+				"focusesOn": "facial expressions, muscles",
+				"into": "degrading the weak." 
+			},
+			"character": {
+				"race": "Human",
+				"class": "Ranger",
+				"description": "Tall, brawny, thick forearms. A mop of messy black hair and an ugly scar that runs from the bridge of his nose across one eye, blinding him in his left side. A harsh 5-o'clock shadow that looks like it's been left too long to be comfortable. He wears chain mail over leather and one large sword strapped to his back.",
+				"erpDesc": "Broad-chested with mostly-visible abs, hidden partially by a strongman's physique. His member is large and thick, a paragon of size and of stiffness. Small when soft, it grows remarkably and is circumcised. It curves slightly to the left and sticks diagonally. Hair sticks out at the base but is absent on the shaft.",
+					"stats": {
+						"ac": 17,
+						"str": 14,
+						"dex": 16
+					},
+					"skills": {
+					"acrobatics": {
+						"mod": 6
+					},
+					"perception": {
+						"mod": 7
+					},
+					"stealth": {
+						"mod": 6
+					},
+					"investigation": {
+						"mod": 4
+					},
+					"initiative": {
+						"mod": 3,
+						"advantage": true
+					}
+				},
+				"equipment": {
+					"armor": {
+						"body": {
+							"item": "Studded Leather",
+							"ac": 12
+						}
+					},
+					"weapons": {
+						"main": {
+							"item": "Greatsword",
+							"atk": 4,
+							"dmg": "2d6 + 3"
+						}
+					}
+				},
+				"prestige": {
+					"title": "Way of Dread",
+					"description": "All those who come to learn your name come to fear it. This infamy acts like a shield and a sword in your hands, causing those who know you to shrink back against your blows and hesitate before launching their own.",
+					"effect": "Roll an Intimidate check during each combat, at disadvantage: enemies must make a Charisma save at the same time or when they enter combat thereafter. If they fail, they attack you with Disadvantage and you attack them with Advantage. Per the DM's discretion, causing NPCs to fear your name and leaving them alive will grant you a +1 stacking bonus to this Intimidation check."
+				}
+			}
+		},
+		{
+			"name": "Enner",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?",
+			"player": {
+				"typingStyle": "lowercase, hesitant, f-list style /me",
+				"focusesOn": "breathing, angles of looking",
+				"into": "humiliation" 
+			},
+			"character": {
+				"race": "Human",
+				"class": "Cleric",
+				"description": "Short, scrawny and light-haired. An altar-boy's cut and the clothes to match, soft and fragile and small, almost girlish-looking. He has a small blond braid in the back and carries a holy censer in the shape and the layout of a uterus, forever loosing sweet-smelling smoke.",
+				"erpDesc": "Soft and pliable, with very little muscle on him and little roughness on his fingers. He blushes heavily when undressed and tries to hide himself--especially trying to hide his small member, miniscule when soft and not much larger grown. Slender and sensitive, his member is uncircumcised and his body below his head, completely hairless.",  
+				"stats": {
+				},
+				"skills": {
+					"initiative": {
+						"mod": 1
+					}
+				},
+				"equipment": {
+				},
+				"prestige": {
+				"title": "?",
+				"description": "?",
+				"effect": "?"
+				}
+			}
+		},
+		{
+			"name": "Amada",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?",
+			"player": {
+				"typingStyle": "informal, lots of abbreviations/lingo",
+				"focusesOn": "angles of looking, opposing forces",
+				"into": "overcoming the strong"
+			},
+			"character": {
+				"race": "Half-Orc",
+				"class": "Barbarian",
+				"description": "Thick-thighed, tall and dark skinned, layered all over with mostly-healed scars and gold runic tattoos that seem to glow when watched for long enough. She wears a chainmail bikini and a simple cloth fundata, her vest off her arms and tucked into her belt. She has long, braided black hair with a bangle sewn into it and carries two hand-axes which she wields like a madwoman.",
+				"erpDesc": "Hard and tough, her bosom large and her nipples dark. Toned almost to the point of her muscles constantly showing, she nonetheless has a six-pack set of abs that she enjoys showing off. Her vulva is dark-lipped and only a landing strip of close-cropped shorn hair adorns her.",
+				"stats": {
+						"ac": 12,
+						"str": 18,
+						"dex": 12
+				},
+				"skills": {
+					"perception": {
+						"mod": 3
+					},
+					"stealth": {
+						"mod": 1
+					},
+					"initiative": {
+						"mod": 2
+					}
+				},
+				"equipment": {
+					"armor": {
+					},
+					"weapons": {
+						"main": {
+							"item": "Hand Axes",
+							"atk": [
+								4,
+								1
+							],
+							"dmg": [
+								"1d6 + 3",
+								"1d6"
+							],
+							"amount": 2
+						}
+					}
+				},
+				"prestige": {
+					"title": "?",
+					"description": "?",
+					"effect": "?"
+				}
+			}
+		},
+		{
+			"name": "Erys",
+			"textColor": "rgb(255, 125, 0)",
+			"icon": "?",
+			"player": {
+				"typingStyle": "ditzy, emoticons and faces. No contractions in RP.",
+				"focusesOn": "squirming, tenseness",
+				"into": "resisting urges"
+			},
+			"character": {
+				"race": "Tiefling",
+				"class": "Sorcerer",
+				"description": "Red-skinned with two tiny horns poking through her forehead, she wears a soft hooded top over a close-fitting tunic and a set of thin pants that exaggerate her long, thin legs. She wields a staff that lightly jingles as the many bells and baubles attached to it dangle, and carries a spellbook of blue leather that she's constantly paging through. Her eyes are yellow and her teeth are bright white, although she hides herself--and them--whenever possible.",
+				"erpDesc": "Soft and firm, supple small breasts and a toned rear. Even her vulva is small and dainty, even though her nipples, her extra-long tongue and her vulva lips are a deep black.",
+				"stats": {
+					"ac": 12
+				},
+				"skills": {
+					"stealth": {
+						"mod": 4
+					},
+					"initiative": {
+						"mod": 2
+					}
+				},
+				"equipment": {
+					"armor": {
+					},
+					"weapons": {
+					}
+				},
+				"spells": {
+					"DC": 15,
+					"Hold Person": {}
+				},
+				"prestige": {
+					"title": "?",
+					"description": "?",
+					"effect": "?"
+				}
+			}
+		}
+	]
+}

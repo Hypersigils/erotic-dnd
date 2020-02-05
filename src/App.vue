@@ -1,28 +1,57 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-content class="pa-5">
+      <MessageBox v-for="(log, index) of logs" 
+        :key="index" 
+        :logs="logs" 
+        :log="log" 
+        :hasDivider="index != logs.length - 1" 
+        :index="index" 
+        :startingMinutes="startingMinutes" />
+    </v-content>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MessageBox from './components/MessageBox';
+
+// import session1_1_1 from '@/assets/sessions/session_1-1.json'
+import userlist from '@/assets/users/session_1-2.json'
+// import session from '@/assets/sessions/session_1-2.json'
+import session from '@/assets/sessions/session_1-1.json'
 
 export default {
-  name: 'app',
+  name: 'App',
   components: {
-    HelloWorld
+    MessageBox,
+  },
+  data() {
+    return {
+      users: userlist.users,
+      logs: session.logs,
+      startingMinutes: this.timeToMinutes(session.startingTime),
+    }
+  },
+  computed: {
+  },
+  methods: {
+    timeToMinutes(time) {
+      let minutes = 0;
+      let m = time.split(" ")[1];
+      let timeArr = time.split(" ")[0].split(":");
+      if (m == "PM") minutes += (12 * 60);
+      minutes += parseInt(timeArr[1]);
+      minutes += (parseInt(timeArr[0] * 60));
+
+      return minutes;
+    }
   }
-}
+};
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+.v-application {
+  background-color: #36393f !important;
+  color: #dcddde !important;
 }
 </style>

@@ -1,0 +1,769 @@
+{
+	"startingTime": "4:00 PM",
+	"logs": [
+		{
+			"user": "DM",
+			"timestamp": 0,
+			"messages": [
+				"Alright! It's about that time again.",
+				"Raster, you here?"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.2,
+			"messages": [
+				"Yup."
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Amada?"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.2,
+			"messages": [
+				"Mmhm."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0,
+			"messages": [
+				"I'm here! ^_^"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0,
+			"messages": [
+				"Erys?",
+				"Dammit, you're supposed to wait till I call you."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.5,
+			"messages": [
+				"Oop. Forgive me please!! >_<"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.5,
+			"messages": [
+				"I don't think you should tbh"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.1,
+			"messages": [
+				"Definitely not."
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.5,
+			"messages": [
+				"We'll see.",
+				"There might just be something special planned for her in today's campaign."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.5,
+			"messages": [
+				"T_T rip me"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 1,
+			"messages": [
+				"But before we get completely sidetracked...",
+				"I'd like to introduce you all to the new guy, Enner."
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.1,
+			"messages": [
+				"Whoop whoop!"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.1,
+			"messages": [
+				"hey there"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.1,
+			"messages": [
+				"Sup."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.1,
+			"messages": [
+				"o/"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 1,
+			"messages": [
+				"thank you guys so much for letting me play with you.",
+				"hopefully I won't bring you down lol ^^;;"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.2,
+			"messages": [
+				"Pfft, no way."
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.2,
+			"messages": [
+				"You'll do just fine, no need to be down on yourself."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0,
+			"messages": [
+				"Ummm... what they said!"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"See? I told you they were good people."
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.2,
+			"messages": [
+				"yeah... hehe"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 4,
+			"messages": [
+				"Anyway",
+				"I filled Enner in on some backstory, so let's get right to it.",
+				"Just as a reminder, here's where we were last time:",
+				"_Our 'heroes,' brought together by a particular dream, are investigating a growing number of disappearances--all young, beautiful women. The first the group investigated had met her end before the three could rescue her, but the information they discovered has led them to another trail that seems much less cold. A drunk reported seeing a woman being tugged into an alleyway and in that alleyway the party found a secret entrance to the sewers. The intrepid three venture down now, to see what may be discovered._",
+				"_The tunnels are dark, damp, and decidedly stale-smelling. Surprisingly tall, the bricks the city is built on stretch up and up until they meet in a curving arch, perhaps ten feet above the tallest of you. From the darkness of that vanishing height small droplets fall now and then: rainwater and worse trickling through the bricks. Thankfully, this passage seems to have fallen into disuse, or the brackish three inches of water in the recessed center of the tunnel wouldn't be the worst of your problems. Among the muted sounds of the market above, and the shrieks and skitters of out-of-sight rodents below, you can just make out a distant thumping._",
+				"What would you like to do?"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.2,
+			"messages": [
+				"I'll listen in for the sound and see if I can pick it out."
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.1,
+			"messages": [
+				"Roll?"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.1,
+			"messages": [
+				"Perception:",
+				"!roll 1d20 + 3"
+			],
+			"roll": {
+				"stat": "Perception",
+				"mod": 3
+			}
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Success."
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.4,
+			"messages": [
+				"I'll light a torch and then examine the tunnel floor. Maybe we can find a sign of our prey.",
+				"Survival:",
+				"!roll 1d20 + 6"
+			],
+			"roll": {
+				"stat": "Survival",
+				"mod": 6
+			}
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Success."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.1,
+			"messages": [
+				"_Light!_ \\o/ _On my staff._"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Alright. While I type, Amada, Raster, Erys, what does it look like?"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 2,
+			"messages": [
+				"_Amada holds up a hand and sniffs the air, looking around cautiously as she fingers one of her axes on her belt, ready to rip it free. Her eyes sweep left and right as she tries to put more details to what she hears._"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 3,
+			"messages": [
+				"_The man in black fishes a torch from his pack and snaps a tindertwig to light it, then holds the blazing brand aloft. He crouches down, ignoring the foul-smelling water, and brushes his fingers lightly over the ground looking for scuff-marks and scratches._"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 4,
+			"messages": [
+				"_Erys whispers a short incantation, her fingers moving in precise motions while her eyes close gently. Light bubbles at her fingertips and coalesces: she passes her hand over the top of her staff and the bubble of light fixes there, brightening the dark tunnel to an afternoon's shine._"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 12,
+			"messages": [
+				"Amada:",
+				"_The sound is rythmic, repetitious, almost mechanical in nature. You'd think it was, anyway, if there weren't long stops now and then, if some of the thumps weren't weaker than others, and so on. Due to the echo down here, it could be coming from anywhere... but you realize you can feel it in the brickwork on the wall, the faint vibration of it. The source can't be far._",
+				"Raster:",
+				"_Ages of dust have marred the floor of this tunnel, although little footprints are evident just about everywhere, dating back who knows how long. However, these traces have been obliterated by the hard stomps of boots... and the unmistakable twin tracks of dragged limbs._",
+				"Erys:",
+				"_As the light brightens this dark space under the streets, you can see large rats, some almost the size of your feet, scurrying off into the darkness. Small eyes glare back from the shadows, magical light reflecting glassily._"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 3,
+			"messages": [
+				"(Sound is probably someone getting railed tbh)",
+				"_Amada unhooks one of her axes and gives it a quick spin, snapping it into her hand with ease. She motions for the other two to follow, and moves quickly through the trees towards the sound._"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.1,
+			"messages": [
+				"(nice)"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.1,
+			"messages": [
+				"(I knew I liked this guy.)",
+				"Raster follows."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.1,
+			"messages": [
+				"same"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.3,
+			"messages": [
+				"Then Stealth checks from everyone, please."
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.4,
+			"messages": [
+				"Stealth",
+				"!roll 1d20 + 4"
+			],
+			"roll": {
+				"stat": "Stealth",
+				"mod": 4
+			}
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.3,
+			"messages": [
+				"stealth time ^_^",
+				"!roll 1d20 + 4"
+			],
+			"roll": {
+				"stat": "Stealth",
+				"mod": 4
+			}
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.1,
+			"messages": [
+				"Stealth time yo!",
+				"!roll 1d20 + 1"
+			],
+			"roll": {
+				"stat": "Stealth",
+				"mod": 1
+			}
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.1,
+			"messages": [
+				"(Oof)"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.3,
+			"messages": [
+				"Success for everyone but Amada."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 3,
+			"messages": [
+				"_Erys creeps towards the noise, holding her breath and darting her eyes from side to side as she clutches her glowing staff to her chest. She steps carefully, her Tiefling grace combining with gentle turns of her heel every time she takes a step, never stepping in so much as a puddle._"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 2,
+			"messages": [
+				"_The man in black sweeps his torch through the air twice quickly, snuffing the flame before replacing it into his pack. He sneers at Erys: \"Show-off.\" His chain mail jingles quietly until he presses a hand to the iron rings and silences it. Then he moves forward._"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 1,
+			"messages": [
+				"_Amada continues spinning the axe in her hand and grins, stalking forward. At first she tries to step quietly, but after splashing through one puddle too many she lets out a curse and slips into a normal stride, no longer caring how much noise she's making._",
+				"And since I know you'll ask, the curse is \"great sagging donkey's nuts.\""
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.3,
+			"messages": [
+				"(LOL)"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 6,
+			"messages": [
+				"_As you move forward, deeper into the tunnels, several branches and passageways appear, then fade into the darkness behind you. Following Raster's directions you take one turn, then another, but the tracks never fade away enough to mislead you. Although Amada isn't being particularly quiet, you don't come across anything but rats--and maybe because of the noise she's making, they stay far enough away so you never see anything but slithering tails and glittering eyes._",
+				"_As you walk the thumping sound grows alternately louder and quieter, but never disappears entirely. And as you take one fork it grows louder still, so loud you can hear it echoing off the walls. The source, it becomes clear, is a large brick sticking halfway out of the wall. As you watch it shivers, shakes, and is finally knocked free. The brick tumbles down and takes several others with it, revealing through a person-sized hole the dimly-lit bars of a jail cell and inside it..._",
+				"Enner, please describe your character."		
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 12,
+			"messages": [
+				"(umm ok)",
+				"_Enner is a young-looking priest with blond hair and a nervous disposition. He's wearing priest's robes and has been trying for hours to knock out this brick, but his arms aren't very strong._"				
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Hmm. I think you can give us some more detail than that."			
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.2,
+			"messages": [
+				"(sorry, I know it isn't that good)"				
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.1,
+			"messages": [
+				"(that's fine, you're just starting out ^_^)"				
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.1,
+			"messages": [
+				"Let's hear descriptions from everyone else. Maybe you'll inspire Enner to add another couple details."				
+			]
+		},
+		{
+			"user": "Amata",
+			"timestamp": 0.2,
+			"messages": [
+				"OK! I'll go first.",
+				"_In front of you, looming over the small jail between the trees is a woman with undeniably Orcish features. Although her tusks are small they appear whenever she smiles, jutting out of the bottom of her jaw--and she's smiling right now, looking down at the captive with a humorous, almost pitying air. Her skin is dark, between brown and grey, and she wears very little in the way of armor: just a cloth wrap around her large, firm breasts and another between her muscled thighs. The cloth is thin enough that you can almost see through it if you stare hard enough. She has an axe strapped to her belt and another she spins lazily in one hand, like she can't decide if she wants to throw it or lodge it in someone's skull._",
+				"_Scars adorn her whole body, some serious and some not, but none seem to bother her as she peers down, down, down... not even the large one across half her face, the reason for her one milky, blind eye. This tall woman has a long, dark braid of hair that reaches down all the way to her toned ass, and a gold ring in it that looks more like a weapon than jewelry. She isn't just marked by battle--gold tattoos, or perhaps paint, in the form of ritualistic markings are present thickly at her core and thinly radiating out. As you watch, they seem to pulse now and then with a strange power. She tsks as she looks at the captive, glancing at him up and down, and says \"Unlucky li'l guy. Someone put him in a wall.\"_"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 11,
+			"messages": [
+				"_The other girl in the group hangs back, her eyes nervously darting around the grove of trees. She hugs her staff closely to herself, making it jingle softly as the many dangling crystals, baubles and trinkets hanging from the crook of the magical implement clink together. The staff isn't protecting much: her chest is small, although her hips are wide, and her ass is probably her best feature. If you look at her for more than a glance it becomes clear what race she is: a Tiefling, red-skinned, with small pointed horns less than an inch long poking from her forehead, parting her black bangs which stop just barely above her eyes. She seems constantly nervous, never standing still for too long._",
+				"_It's obvious what she does from the staff she carries, but the many odd arcane focuses, trinkets and potions hanging from her belt make it impossible to mistake. Although clearly of wizarding stock, Erys doesn't wear traditional robes or a conical hat; instead, she's dressed as if she was expecting to trudge through the forest and go hunting. Which, for once, she is. A cloth hood covers her head but stops just over her shoulders, like a very small poncho, and her top and bottoms are ranger's stock. Hardened cloth and leather. They cling tight to her body, emphasizing her lack of curves up top and her generous ones below. She might look like a complete prude if the cloth over her small tits didn't show the clear protrusions of piercings on her Tiefling nipples. \"I don't think,\" she murmurs breathily, \"he's in a wall. I think the jail he's in must share a wall with this tunnel.\"_"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 5,
+			"messages": [
+				"_The third and last member of the party is a tall--though not as tall as Amada--Human man with a 5 o'clock shadow like he hasn't taken the time to shave in days. He has close-cropped, messy brown hair and looks like he's just quaffed a potion of Bear's Strength: in his studded leather armor strong, thick muscles strain as if a flex would have them rip the layer they're constrained by. Almost every inch of him below the neck is covered by thick, tough leather armor, most of it black, and he blends with the shadows: when you take your eyes off him it takes a moment or two to zero in on his position once more. Usually what gives him away are his gleaming eyes, bright despite his dark face and garments. The look in them is almost unreadable, similar to his dispassionate and calm face... but there's a hint of cruelty, a hint of anger in them that bubbles to the surface now and then._",
+				"_Across his back is strapped a large, almost too large sword that looks like two men would have to team up to wield. Despite its weight and how unwieldy it seems, he carries it with relative ease and acts like he could pull it free in an instant. Like Erys, his belt sports a large number of attached items, but his are pouches and vials and various salves, some seeming safe and some others decidedly not._",
+				"_\"So, kid. How'd you get in there? And what should we do with you?\"_"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"Good descriptions, everyone. Enner, you think you can draw some inspiration from that?"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 2,
+			"messages": [
+				"(i'll try)",
+				"_Enner is a young-looking priest with straight-cut blond hair, and he looks nervous. More nervous maybe than Erys, and he's stumbled back from the open hole he's struggled to make, hair matted and sweaty. He's wearing a priest's robe and cloth pants, as well as open sandals, which aren't good for much more than walking upon carpet. But it looks like he wasn't really planning on being here anyway. His face is young, in fact his whole body seems slightly underdeveloped. Far from the muscled strength Raster is sporting Enner seems scrawny, soft and weak. Like a nobleman's son who's never had to work a day in his life._"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 12,
+			"messages": [
+				"(daaang! Look who's kiling it! o-o)"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.2,
+			"messages": [
+				"(hehe thanks, i've got some more)",
+				"_slowly creeps back towards the opening, looking cautiously at the newcomers. He brushes back his blond hair which keeps trying to fall in his eyes and looks helplessly up at you. \"Please,\" he begs, \"I don't know what they're going to do to me if you leave me in here. I'm a priest!\" he cries and holds up his holy symbol, a censer slowly wafting smoke, the metal incense holder in the vague shape of a woman's womb. \"I can help you, if you let me go with you!\"_",
+				"(oops edit)"
+			],
+			"edits": [1]
+		},
+		{
+			"user": "DM",
+			"timestamp": 5,
+			"messages": [
+				"Great work, Enner."
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.2,
+			"messages": [
+				"Nice."
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.1,
+			"messages": [
+				"(I knew you could ^_^)",
+				"(See, we don't bite)"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 0.2,
+			"messages": [
+				"(Not bad!)"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 0.3,
+			"messages": [
+				"(aww thanks, I know it's not as good as your stuff but i'm trying)"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.2,
+			"messages": [
+				"You're doing great. Everyone else, some reactions?"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 2,
+			"messages": [
+				"_Amada seems at least willing to listen, although she doesn't act particularly sorry for Enner. She snorts and spits, looking down the tunnel the way they were going. Then her narrowed eyes return to Enner and she gazes at him suspiciously, spinning an axe in her hand._"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 3,
+			"messages": [
+				"_Erys puts a hand on Amada's lower back, reaching up and patting her gently to try and calm her. \"Why... did they throw you in here?\" she asks the young man timidly._"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 3,
+			"messages": [
+				"_\"See...\" Raster squats down in front of the hole, one hand adjusting the sword strapped to his back so it doesn't dig in the ground. \"To us, it looks like someone put you in there for a reason. Maybe for a reason we shouldn't let you come out.\"_"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 5,
+			"messages": [
+				"_looks almost ready to burst into tears. \"Please, I don't know what's going on. Strange men came for me in the middle of the night, broke into my rooms and dragged me away... I woke up in here, already trapped.\" He looks up at the three, his eyes moving from one to the next. \"You can't leave me in here! You just can't! I need to get back to the church--warn the others!\"_"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 2,
+			"messages": [
+				"_A dark cloud passes over Amada's face. \"Don't you ever,\" she growls, \"tell me what I can or can't do.\"_"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 3,
+			"messages": [
+				"_Erys pulls back a bit from Amada, watching her warily before she turns her eyes to Raster. \"Do you think he's dangerous?\"_"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 2,
+			"messages": [
+				"_He shrugs, as if somehow it doesn't really matter. \"Could be. If the boy's dumb enough to try something...\" Raster trails off, satisfied his meaning is clear._"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 5,
+			"messages": [
+				"_feels his eyes pinprick with tears, wincing as he's dismissively called 'boy.' \"P-please! I don't want to hurt anyone! I... I think...\" his voice gets a little firmer as he continues talking but it's still high-pitched and nervous. \"I think someone heard me confessing my dream. I need to tell the Mother!\"_"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 2,
+			"messages": [
+				"_The Tiefling girl darts a glance at her two companions, her eyes wide. Then she fixes the prisoner with a bright yellow stare. \"Your dream,\" she says. \"What kind of dream?\"_"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 1,
+			"messages": [
+				"_Amada picks at her fingernails, clearly uninterested._"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 2,
+			"messages": [
+				"_The man in black's eyes shine in the magical light. He waits, his gaze boring into the boy's skull._"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 1,
+			"messages": [
+				"_pauses, hesitating for just a moment before it all rushes out of him in a flood._",
+				"(do I let you say it?)"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.5,
+			"messages": [
+				"First how you remember it, then I'll follow up."
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 2,
+			"messages": [
+				"(okie)",
+				"_\"I'm not sure about what any of it means, but... there was a village, and a farm, and a couple...\" he blushes a deep red, then keeps talking quickly. \"And then I got this awful, awful feeling that kept getting worse, and the sky turned red, and I saw a hand...\"_"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 1,
+			"messages": [
+				"To wit (although each's viewing differs slightly):",
+				"_You become aware of a village, a small village teeming with activity. Everyone is deeply immersed into a life you know nothing about and yet feel strongly familiar with--as if you're somehow intimately aware of this small town and what goes on within it. As you watch a farmer hustle across the dirt road of the main street, you're somehow aware his prized cow is sick. As his path crosses a horse and cart's, you know its owner is in the town inn getting drunk after a pleasant and unexpected windfall. And in that inn is a waitress who's just hooked the collar of a traveler you know she's fond of, and you're not surprised when she leads him out back and hikes up her skirt._",
+				"_The pair's grunts and sighs of pleasure are quickly overshadowed by a rising feeling of fear, of pure and unbridled terror you can't pinpoint the origin of. It fills you up from the base of your spine and fixes you like a set of spikes right through your core. Like your lungs are filling with shattered glass. Like you're drowning in some liquid that's too heavy and too hot to be water. As the village bustles you can see the sky beginning to clear, and then it turns a deep red. In midday, on a perfectly ordinary day, a deep red like blood spilled on metal. And the fabric of the world, of the sky, begins to strain. Begins to stretch. Begins to_ split. _And from that, hole, a hand--_"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 2,
+			"messages": [
+				"\"The same dream.\" Erys' yellow eyes watch the prisoner unflinchingly, her knuckles whitening on her staff as she clutches it to her. \"You saw it too...\""
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 4,
+			"messages": [
+				"The man in black rocks back on his feet and stands, looking down through the hole. \"Perhaps,\" he allows, \"It's destiny. You being here. You seeing the dream. Us coming across you at just the right time.\" He shrugs, grudgingly. \"I didn't dream about a farm, none of us did. Maybe you can tell us something about that.\" He steps back and beckons: \"but first, get yourself out of there.\""
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 4,
+			"messages": [
+				"_\"Not so fast.\" Amada steps in front of the hole, blocking it with her body. She looks down at the young priest boy, sneering slightly as if he makes her slightly ill. \"There's a pecking order in this group you're going to have to respect... _if_ you come with us.\" She steps close to the hole, so close she's almost pressed up right to the brick work. One of her hands slides down, down, down, until it hooks in the small piece of cloth covering her cunt and she pulls it aside. Underneath her pussy is as dark-lipped as her nipples, her flower proud and on display. Only a tuft of close-cut hair above her mound. As you look a bead of wetness--either arousal or sweat--stands out on one of her folds._"
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 0.3,
+			"messages": [
+				"Initiation time, huh?"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.2,
+			"messages": [
+				"(lol)"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 1,
+			"messages": [
+				"_\"Kiss your queen,\" she grins down cruelly, and presses her pussy up to the hole._"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 9,
+			"messages": [
+				"_leans in and hesitates, then kisses her gently with tears in his eyes._"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 1,
+			"messages": [
+				"Pff. All that typing and that's the best you can do?"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 3,
+			"messages": [
+				"(sorry i'm just nervous i guess)"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 0.5,
+			"messages": [
+				"That's alright Enner. See if you can give it a once-over, just like you did with your description. No rush, no pressure."
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 14,
+			"messages": [
+				"(ok)",
+				"_hesitates, his breath coming quick and ragged, his eyes glued to the Orc woman's pretty flower. It's obvious he's never done this sort of thing before, maybe never even seen a woman like... this. He leans forward and pauses, breathing warm air on Amada's sensitive flesh, then closes his eyes tight and presses a short, careful kiss to her. His nervously wet lips find hers and he tastes a woman for the first time._"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 0.2,
+			"messages": [
+				"(nice ^-^)"
+			]
+		},
+		{
+			"user": "Amada",
+			"timestamp": 5,
+			"messages": [
+				"Much better.",
+				"_Amada laughs at the boy, clearly taking more than just sexual pleasure from the act she's forced him into. She knots her fingers in his hair and jams him harder against her, moving her hips enough to grind her musky-smelling cunt into his face and mark him. After holding him there for a second or two, she releases him to let him gasp for air. \"Alright,\" she drawls. \"You'll do.\"_"
+			]
+		},
+		{
+			"user": "Erys",
+			"timestamp": 3,
+			"messages": [
+				"The Tiefling girl has her hand up to cover her eyes but is actively peeking between her fingers, blushing a dark purple that stands out on her red skin. \"W... welcome,\" she stammers."
+			]
+		},
+		{
+			"user": "Raster",
+			"timestamp": 2,
+			"messages": [
+				"_Raster is watching with a faint smile that doesn't quite reach his eyes. He nods along with Erys. \"Welcome to our little group. Keep your nose clean and your hands where we can see them.\"_"
+			]
+		},
+		{
+			"user": "Enner",
+			"timestamp": 4,
+			"messages": [
+				"_is left panting and stunned, then falls back when Amada releases him, eyes slowly focusing as he licks his lips without even thinking about it. \"Thank you,\" he breathes, and looks up at the Orc woman in front of him. \"Can you get me out now?\"_"
+			]
+		},
+		{
+			"user": "DM",
+			"timestamp": 1,
+			"messages": [
+				"Alright, let's take a quick break, then we'll come back to the story. Be sure to mention anything you'd like to, and do any RP you want about getting him out and setting off again.",
+				"And once more, welcome!"
+			]
+		}
+	]
+}
